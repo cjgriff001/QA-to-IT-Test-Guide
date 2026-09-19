@@ -1,0 +1,6 @@
+{
+  "name": "QA to IT Transition Script Suite & Workbench",
+  "description": "Production-ready IT diagnostic, network triage, and system administration scripts tailored for Software QA professionals transitioning into IT and Systems Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
